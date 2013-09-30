@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="directionOptions">
+        <item >Walking</item>
+        <item >Biking</item>
+        <item >Public Transit</item>
+        <item >Driving</item>
+    </string-array>
+    <string-array name="searchRadiusOptions">
+        <item >1 mile</item>
+        <item >2 miles</item>
+        <item >5 miles</item>
+        <item >No limit</item>
+    </string-array>
+    
+</resources>
